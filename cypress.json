@@ -1,0 +1,18 @@
+{
+  "baseUrl": "https://dashboard.nexudus.com",
+  "video": false,
+  "screenshotsFolder": "cypress/images",
+  "reporter": "cypress-mochawesome-reporter",
+  "viewportWidth": 1920,
+  "viewportHeight": 1200,
+  "defaultCommandTimeout": 30000,
+  "watchForFileChanges": true,
+  "reporterOptions": {
+    "reportPageTitle": "Nexudus UI E2E Test Results",
+    "reportTitle": "Nexudus UI E2E Test Results",
+    "reportDir": "cypress/report",
+    "charts": true,
+    "inlineAssets": true,
+    "embeddedScreenshots": true
+  }
+}

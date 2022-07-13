@@ -1,0 +1,10 @@
+{
+  "signInTestUser": {
+    "username": "adrian+1004930927@nexudus.com",
+    "password": "Y2952LwomKAm"
+  },
+  "invalidTestUser": {
+    "username": "bad@example.com",
+    "password": "123456"
+  }
+}
